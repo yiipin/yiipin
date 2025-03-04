@@ -1,3 +1,11 @@
+https://chatgpt.com/
+
+https://copilot.microsoft.com/chats
+
+https://chat.deepseek.com/
+
+https://claude.ai/new
+
 ### Welcome to Yi Pin's GitHub main page!  
  
 <h1 align="center">Hi 👋, I'm Yi Pin Wang</h1>
